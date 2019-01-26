@@ -8,14 +8,19 @@ namespace LAB1
         {
 
             int n = int.Parse(Console.ReadLine());
-                string[] arr = Console.ReadLine().Split();
+            string[] arr = Console.ReadLine().Split();
 
-            foreach(string s in arr)
+            foreach (string s in arr)
             {
-                if (int.Parse(s) % 2 == 0)
+                int sum = 0;
+                for (int i = 2; i <= arr.Length; i++) {
+                    if (int.Parse(s) % i == 0)
+                        sum += 1;
+                }
+                if (sum == 1) {
                     Console.Write(s);
-                Console.Write(" ");
-            }
+                    Console.Write(" ");
+                } }
 
 
         }

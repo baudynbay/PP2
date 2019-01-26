@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{7A078B10-A128-448C-9B0A-9509EF660C0A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LAB1/Program.cs">
+﻿<Properties StartupConfiguration="{23B28C70-B695-44F6-B750-BFA32730BDF6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="LAB1/Program.cs" Line="27" Column="37" />
+      <File FileName="Program.cs" Line="1" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
