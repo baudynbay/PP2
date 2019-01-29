@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{7A078B10-A128-448C-9B0A-9509EF660C0A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LAB1/Program.cs">
-    <Files>
-      <File FileName="LAB1/Program.cs" Line="27" Column="37" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
