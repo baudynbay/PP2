@@ -6,20 +6,20 @@ namespace task3
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            string[] arr = Console.ReadLine().Split();
-            List<string> number = new List<string>();
+            int n = int.Parse(Console.ReadLine()); //читаем сколько чисел есть
+            string[] arr = Console.ReadLine().Split(); // читаем строку разделяя их по пробелам
+            List<string> number = new List<string>(); // создаем динамический массив
 
 
-            foreach (string s in arr)
+            foreach (string s in arr) //для каждого элемента
             {
-                number.Add(s);
-                number.Add(s);
+                number.Add(s); //добавляем с массива
+                number.Add(s); // еще раз добавляем
             }
 
             foreach (string s in number)
             {
-                Console.Write(s + ' ');
+                Console.Write(s + ' '); //вывод
             }
         }
     }
