@@ -11,13 +11,13 @@ namespace task3
             List<string> number = new List<string>();
 
 
-            foreach(string s in arr)
+            foreach (string s in arr)
             {
                 number.Add(s);
                 number.Add(s);
             }
 
-            foreach(string s in number)
+            foreach (string s in number)
             {
                 Console.Write(s + ' ');
             }
