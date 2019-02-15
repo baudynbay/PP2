@@ -5,31 +5,25 @@ namespace Task31
 {
     class Program
     {
-        public static void ReadFiles(DirectoryInfo files, int level)
-        {
-            foreach (FileInfo t in files.GetFiles())
-            {
-                Space(level);
-                Console.WriteLine(t.Name);
-            }
 
-            foreach (DirectoryInfo r in files.GetDirectories())
-            {
-                Space(level);
-                Console.WriteLine(r.Name);
-                ReadFiles(r, level + 1);
-            }
-        }
-
-        public static void Space(int level)
-        {
-            for (int i = 0; i < level; i++)
-                Console.Write("     ");
-        }
         static void Main(string[] args)
         {
-            DirectoryInfo files = new DirectoryInfo("/users/baudynbay/desktop/pp2");
-            ReadFiles(files, 0);
+
+            DirectoryInfo path = new DirectoryInfo("/Users/baudynbay/desktop/pp2");
+
+            if (!(File.Exists("/Users/baudynbay/desktop/pp2/input.txt")))
+            {
+                FileStream text = File.Create("/Users/baudynbay/desktop/pp2/input.txt");
+                text.Close();
+            }
+
+            if (!(Directory.Exists("/Users/baudynbay/desktop/pp2/papka"))){
+                Directory.CreateDirectory("/Users/baudynbay/desktop/pp2/papka");
+            }
+
+            File.Copy("/Users/baudynbay/desktop/pp2/input.txt", "/Users/baudynbay/desktop/pp2/papka/input.txt",true);
+            File.Delete("/Users/baudynbay/desktop/pp2/input.txt");
+
         }
     }
 }

@@ -1,0 +1,11 @@
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/bin/Debug/netcoreapp2.0/Task4.deps.json
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/bin/Debug/netcoreapp2.0/Task4.runtimeconfig.json
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/bin/Debug/netcoreapp2.0/Task4.runtimeconfig.dev.json
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/bin/Debug/netcoreapp2.0/Task4.dll
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/bin/Debug/netcoreapp2.0/Task4.pdb
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/obj/Debug/netcoreapp2.0/Task4.csprojAssemblyReference.cache
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/obj/Debug/netcoreapp2.0/Task4.csproj.CoreCompileInputs.cache
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/obj/Debug/netcoreapp2.0/Task4.AssemblyInfoInputs.cache
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/obj/Debug/netcoreapp2.0/Task4.AssemblyInfo.cs
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/obj/Debug/netcoreapp2.0/Task4.dll
+/Users/baudynbay/Desktop/PP2/WEEK2/task4/Task4/Task4/obj/Debug/netcoreapp2.0/Task4.pdb
