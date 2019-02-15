@@ -135,7 +135,8 @@ namespace Ex1
                 {
                     if (currentFs.GetType() == typeof(DirectoryInfo))
                     {
-                        currentFs.Delete();
+                        DirectoryInfo red = new DirectoryInfo(currentFs.FullName);
+                        red.Delete(true);
 
                     }
                     if (currentFs.GetType() == typeof(FileInfo))
