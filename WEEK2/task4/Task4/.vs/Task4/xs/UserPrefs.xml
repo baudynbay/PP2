@@ -1,12 +1,12 @@
-﻿<Properties StartupConfiguration="{310C49C1-D96B-469D-B291-B907B4D4A2AF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task31/Program.cs">
+﻿<Properties StartupConfiguration="{2F4158AB-7907-4E47-99B0-1589AADCF6B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task4/Program.cs">
     <Files>
-      <File FileName="Task31/Program.cs" Line="31" Column="55" />
+      <File FileName="Task4/Program.cs" Line="23" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Task31 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
