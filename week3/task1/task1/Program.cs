@@ -11,6 +11,8 @@ namespace Ex1
         public bool ok;
         DirectoryInfo directory = null;
         FileSystemInfo currentFs = null;
+        public int sumDirectory;
+        public int sumFiles;
 
         public FarManager()
         {
@@ -30,24 +32,26 @@ namespace Ex1
         {
             if (cursor == index)
             {
-                Console.BackgroundColor = ConsoleColor.White;
-                Console.ForegroundColor = ConsoleColor.Black;
+                //Console.BackgroundColor = ConsoleColor.White;
+                Console.ForegroundColor = ConsoleColor.White;
                 currentFs = fs;
             }
             else if (fs.GetType() == typeof(DirectoryInfo))
             {
-                Console.BackgroundColor = ConsoleColor.Green;
+              //  Console.BackgroundColor = ConsoleColor.Green;
                 Console.ForegroundColor = ConsoleColor.Magenta;
             }
             else
             {
-                Console.BackgroundColor = ConsoleColor.Blue;
+              //  Console.BackgroundColor = ConsoleColor.Blue;
                 Console.ForegroundColor = ConsoleColor.Yellow;
             }
         }
 
         public void Show()
         {
+            sumFiles = 0;
+            sumDirectory = 0;
             Console.BackgroundColor = ConsoleColor.Black;
             Console.Clear();
             directory = new DirectoryInfo(path);
@@ -58,10 +62,23 @@ namespace Ex1
                 {
                     continue;
                 }
+                if (fs[i].GetType()== typeof(DirectoryInfo))
+                {
+                    sumDirectory++;
+                }
+                if (fs[i].GetType() == typeof(FileInfo))
+                {
+                    sumFiles++;
+                }
                 Color(fs[i], k);
-                Console.WriteLine(fs[i].Name);
+                Console.WriteLine(k+"."+fs[i].Name);
                 k++;
+
             }
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("The amount of directory is " + sumDirectory);
+            Console.WriteLine("The amount of files is " + sumFiles);
         }
         public void Up()
         {
