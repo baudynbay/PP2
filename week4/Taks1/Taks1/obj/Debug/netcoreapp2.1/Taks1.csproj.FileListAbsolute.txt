@@ -1,0 +1,11 @@
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/bin/Debug/netcoreapp2.1/Taks1.deps.json
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/bin/Debug/netcoreapp2.1/Taks1.runtimeconfig.json
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/bin/Debug/netcoreapp2.1/Taks1.runtimeconfig.dev.json
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/bin/Debug/netcoreapp2.1/Taks1.dll
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/bin/Debug/netcoreapp2.1/Taks1.pdb
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/obj/Debug/netcoreapp2.1/Taks1.csprojAssemblyReference.cache
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/obj/Debug/netcoreapp2.1/Taks1.csproj.CoreCompileInputs.cache
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/obj/Debug/netcoreapp2.1/Taks1.AssemblyInfoInputs.cache
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/obj/Debug/netcoreapp2.1/Taks1.AssemblyInfo.cs
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/obj/Debug/netcoreapp2.1/Taks1.dll
+/Users/baudynbay/Desktop/PP2/week4/Taks1/Taks1/obj/Debug/netcoreapp2.1/Taks1.pdb

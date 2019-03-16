@@ -1,0 +1,11 @@
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/bin/Debug/netcoreapp2.0/Snake.deps.json
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/bin/Debug/netcoreapp2.0/Snake.runtimeconfig.json
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/bin/Debug/netcoreapp2.0/Snake.runtimeconfig.dev.json
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/bin/Debug/netcoreapp2.0/Snake.dll
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/bin/Debug/netcoreapp2.0/Snake.pdb
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/obj/Debug/netcoreapp2.0/Snake.csprojAssemblyReference.cache
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/obj/Debug/netcoreapp2.0/Snake.csproj.CoreCompileInputs.cache
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/obj/Debug/netcoreapp2.0/Snake.AssemblyInfoInputs.cache
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/obj/Debug/netcoreapp2.0/Snake.AssemblyInfo.cs
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/obj/Debug/netcoreapp2.0/Snake.dll
+/Users/baudynbay/Desktop/PP2/week5/Snake/Snake/obj/Debug/netcoreapp2.0/Snake.pdb
